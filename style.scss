@@ -244,11 +244,11 @@ main{
       grid-row: 1/2;
       
         h3{
-          font-size:0.85rem;
+          font-size:2rem;
           padding-bottom: 1%;
         }
         p{
-          font-size:0.75rem
+          font-size:1.5rem
         }
         div:nth-of-type(1){
           background-image: url(img/robot.jpg);
@@ -262,11 +262,11 @@ main{
         grid-column: 1 / 2;
       grid-row: 2/3;
         h3{
-          font-size:1rem;
+          font-size:2rem;
           padding-bottom: 1%;
         }
         p{
-          font-size:0.75rem
+          font-size:1.5rem
         }
         div:nth-of-type(1){
           background-image: url(img/Innovation.jpg);
@@ -280,11 +280,11 @@ main{
         grid-column: 1 / 2;
       grid-row: 3/4;
         h3{
-          font-size:1rem;
+          font-size:2rem;
           padding-bottom: 1%;
         }
         p{
-          font-size:0.75rem
+          font-size:1.5rem
         }
         div:nth-of-type(1){
           background-image: url(img/planetarium.jpg);
@@ -298,11 +298,11 @@ main{
         grid-column: 1 / 2;
         grid-row: 4/5;
         h3{
-          font-size:1rem;
+          font-size:2rem;
           padding-bottom: 1%;
         }
         p{
-          font-size:0.75rem
+          font-size:1.5rem
         }
       
       div:nth-of-type(1){
@@ -314,5 +314,6 @@ main{
       }
     }
     }
+    
   }
 }
